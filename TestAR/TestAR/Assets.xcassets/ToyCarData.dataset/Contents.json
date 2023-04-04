@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "ToyCar.arobject",
+      "idiom" : "universal",
+      "universal-type-identifier" : "com.apple.arobject"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
