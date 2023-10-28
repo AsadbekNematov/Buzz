@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Buzz
+//  TestAR
 //
-//  Created by Asadbek Nematov on 3/31/23.
+//  Created by Asadbek Nematov on 4/3/23.
 //
 
 import UIKit

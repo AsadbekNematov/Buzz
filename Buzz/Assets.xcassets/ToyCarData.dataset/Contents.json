@@ -1,10 +1,9 @@
 {
-  "images" : [
+  "data" : [
     {
-      "filename" : "BuzzLogo.png",
+      "filename" : "ToyCar.arobject",
       "idiom" : "universal",
-      "platform" : "ios",
-      "size" : "1024x1024"
+      "universal-type-identifier" : "com.apple.arobject"
     }
   ],
   "info" : {
